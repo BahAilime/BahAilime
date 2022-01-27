@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BahAilime
+- 👩‍🎓 I’m a student 
+- 🌱 I’m currently learning Javascript 
+- 💻 You can find me on my website: `miliab.com`
