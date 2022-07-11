@@ -7,10 +7,6 @@
 - 💥 I am one of the 300 best CSSbattle players among more than 200 000 css enjoyers: [@ailime](https://cssbattle.dev/player/ailime)
 - ✨ I made a few Frontend Mentor challanges: [@BahAilime](https://www.frontendmentor.io/profile/BahAilime)
 
-<details>
-  <summary>📧 You may want to send me an email !</summary>
-   Here is my email adress: `emilia@miliab.com`
-</details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahAilime&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Emi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahAilime&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BahAilime&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
