@@ -13,9 +13,11 @@
 
 <h3 align="left">💡 About Me</h3>
 
-<p align="left">I'm a data/ml engineer from France<br><br>- 📚 I'm currently learning pytorch<br>- ⚡ In my free time I weave paracord and make 3D art</p>
+<p align="left">I'm a data/ml engineer from Baguetteland<br><br>- 📚 I'm currently learning pytorch<br>- ⚡ In my free time I weave paracord and make 3D art</p>
 
 <h3 align="left">🛠 Languages and tools (data/ml)</h3>
+
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
