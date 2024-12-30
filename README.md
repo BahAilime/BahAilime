@@ -58,5 +58,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bahailime&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahailime&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=calm&hide_border=false&order=2" height="250" alt="languages graph"  />
-  <a href="https://cssbattle.dev/player/ailime" target="_blank"><img src="https://css-battle-badge.vercel.app/badge/?id=GFhoaJX4SFgdWOBXdWUee4jsaNq2&username=Emilia" height="250"/></a>
+  <a href="https://cssbattle.dev/player/ailime" target="_blank"><img src="https://css-battle-badge.vercel.app/badge/?id=GFhoaJX4SFgdWOBXdWUee4jsaNq2&username=Emilia&theme=calm" height="250"/></a>
 </div>
